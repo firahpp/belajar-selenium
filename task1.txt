@@ -1,0 +1,10 @@
+1. navigation 1-4,8.
+2. automation ; http://the-internet.herokuapp.com/ 
+HARUS COBAIN :
+- input text
+- radio button
+- checkbox
+- select option
+- click button
+
+3. ambil text di element (ex. You logged into a secure area!) -selector, locater.
